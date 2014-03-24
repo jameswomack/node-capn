@@ -1,0 +1,39 @@
+{
+  "name": "capn",
+  "version": "0.0.1",
+  "description": "The Cap'n captures your stack traces and gives you easy access to crunch the information",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jameswomack/capn"
+  },
+  "keywords": [
+    "error",
+    "stack",
+    "trace",
+    "stack",
+    "trace",
+    "capture",
+    "v8",
+    "line",
+    "number"
+  ],
+  "author": "James J. Womack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameswomack/capn/issues"
+  },
+  "homepage": "https://github.com/jameswomack/capn",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.5.6",
+    "gulp-mocha": "~0.4.1",
+    "chai": "~1.9.1",
+    "i": "~0.3.2",
+    "gulp-jshint": "~1.5.1",
+    "jshint-stylish": "~0.1.5"
+  }
+}
