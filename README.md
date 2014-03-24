@@ -1,9 +1,8 @@
 # Capn
 The Cap'n captures your stack traces and gives you easy access to crunch the information
 
-`npm install capn`
 
-
+```
                                                       =+   D$                   
                                                      8++ 7+=Z                   
                                                      D+=$+D  8Z                 
@@ -60,3 +59,4 @@ The Cap'n captures your stack traces and gives you easy access to crunch the inf
                 O                           NMNNMMMMMMMMN                       
                                               ONMMNNNNNN                        
                                                                                 
+```
